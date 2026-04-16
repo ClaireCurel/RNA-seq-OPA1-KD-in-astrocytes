@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Run FastQC on all FASTQ files in a directory
 INPUT_DIR=$1
 OUTDIR=$PROJECT/fastqc
 mkdir -p $OUTDIR
