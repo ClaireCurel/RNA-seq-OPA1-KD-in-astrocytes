@@ -3,6 +3,9 @@
 INPUTDIR=$1
 cd $INPUTDIR
 
+# Load samtools (cluster-specific, adjust if needed)
+module load samtools
+
 for sam_file in *.sam
 do
     bam_file="${sam_file%.sam}.bam"
