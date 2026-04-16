@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# summarise all FastQC outputs into one report
 cd $PROJECT/fastqc
 
 module use -s /s/mm/modules
