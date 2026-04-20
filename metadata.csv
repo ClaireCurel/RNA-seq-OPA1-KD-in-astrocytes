@@ -1,0 +1,11 @@
+﻿files,names,condition,cell,sex,litter
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/C1F_quant/quant.sf,C1F,control,astro,female,"1F"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/C1M_quant/quant.sf,C1M,control,astro,male,"4M"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/C2F_quant/quant.sf,C2F,control,astro,female,"2F"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/C2M_quant/quant.sf,C2M,control,astro,male,"5M"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/C3F_quant/quant.sf,C3F,control,astro,female,"3F"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/T1F_quant/quant.sf,T1F,treated,astro,female,"1F"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/T1M_quant/quant.sf,T1M,treated,astro,male,"4M"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/T2F_quant/quant.sf,T2F,treated,astro,female,"2F"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/T2M_quant/quant.sf,T2M,treated,astro,male,"5M"
+/Users/irilenia/Dropbox/work/research/ClaireT_Hypoxia/ClaireCUREL/OPA1_RNAseq_Dec2023/MINE/salmon_with_biases/quants/T3F_quant/quant.sf,T3F,treated,astro,female,"3F"
