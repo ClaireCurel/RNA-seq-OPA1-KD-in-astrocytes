@@ -5,7 +5,7 @@ This repository contains the code for RNA-seq data analysis of astrocyte with an
 
 Analysis described in [paper link: Mitochondrial Optic Atrophy (OPA)1 expression regulates the injury response to neonatal hypoxia-ischaemia]
 
-Processed data available via Zenodo [add link]
+Processed data available via Zenodo [(https://doi.org/10.5281/zenodo.19661084)]
 
 # Experimental summary:
 - RNA quality measured using Nanodrop and Agilent Bioanalyzer
